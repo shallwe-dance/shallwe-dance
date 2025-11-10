@@ -11,6 +11,7 @@
 Hi, I'm Sewoong! I am currently majoring [LIS](https://lis.skku.edu/lis/index.do) and [AAI](https://sco.skku.edu/sco/intro/major_infomatics.do) in Sungkyunkwan University. I'm passionate adventurer who loves new experiences, and currently looking for new a new job. If you want to contact me: [jsw1301@skku.edu](jsw1301@skku.edu)
 
 <div><h2>🔨 STACKS</h2></div>
+<div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -30,7 +31,7 @@ Hi, I'm Sewoong! I am currently majoring [LIS](https://lis.skku.edu/lis/index.do
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-        
+ </div>   
 <!--
 **shallwe-dance/shallwe-dance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
