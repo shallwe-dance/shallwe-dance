@@ -8,6 +8,7 @@
     'language' : ['Korean', 'English'],
  }
 ```
+Hi, I'm Sewoong! I am currently majoring [LIS](https://lis.skku.edu/lis/index.do) and [AAI](https://sco.skku.edu/sco/intro/major_infomatics.do) in Sungkyunkwan University. I'm passionate adventurer who loves new experiences, and currently looking for new a new job. If you want to contact me: [jsw1301@skku.edu](jsw1301@skku.edu)
         
 <!--
 **shallwe-dance/shallwe-dance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
