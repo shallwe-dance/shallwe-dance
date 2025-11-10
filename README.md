@@ -3,7 +3,7 @@
  me = {
     'name' : 'Sewoong Jeong',
     'interest' : ['Distributed System', 'DB', 'Network', 'AI'],
-    'hobby' = ['soccer', 'powerlifting', 'games'],
+    'hobby' : ['soccer', 'powerlifting', 'games'],
     'location' : {'Republic of Korea' : ['Suwon', 'Seoul']},
     'language' : ['Korean', 'English'],
  }
