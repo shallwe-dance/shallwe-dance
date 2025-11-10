@@ -1,6 +1,6 @@
 ## 반갑습니다 👋
 
-    ```python
+    ```
     def hello_world():
         print("Hello, GitHub Profile!")
     ```
