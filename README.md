@@ -20,7 +20,6 @@ Hi, I'm Sewoong! I am currently majoring [LIS](https://lis.skku.edu/lis/index.do
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
  <img src="https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=NumPy">
  <img src="https://img.shields.io/badge/-Scipy-blue?style=for-the-badge&logo=Scipy&logoColor=white">
- <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
  
 <br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
