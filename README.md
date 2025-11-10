@@ -10,7 +10,7 @@
 ```
 Hi, I'm Sewoong! I am currently majoring [LIS](https://lis.skku.edu/lis/index.do) and [AAI](https://sco.skku.edu/sco/intro/major_infomatics.do) in Sungkyunkwan University. I'm passionate adventurer who loves new experiences, and currently looking for new a new job. If you want to contact me: [jsw1301@skku.edu](jsw1301@skku.edu)
 
-<div align=center><h1>🔨 STACKS</h1></div>
+<div><h2>🔨 STACKS</h2></div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
         
 <!--
