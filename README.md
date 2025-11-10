@@ -13,14 +13,14 @@ Hi, I'm Sewoong! I am currently majoring [LIS](https://lis.skku.edu/lis/index.do
 <div><h2>🔨 STACKS</h2></div>
 <div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
  
 <br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
- <img src="https://img.shields.io/badge/-Numpy-013243?&logo=NumPy">
- <img src="https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white">
- <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=NumPy">
+ <img src="https://img.shields.io/badge/-Scipy-blue?style=for-the-badge&logo=Scipy&logoColor=white">
+ <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
  
 <br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
