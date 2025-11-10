@@ -1,8 +1,13 @@
 ## 반갑습니다 👋
  ```
-    def hello_world():
-        print("Hello, GitHub Profile!")
-  ```
+ me = {
+    'name' : 'Sewoong Jeong',
+    'interest' : ['Distributed System', 'DB', 'Network', 'AI'],
+    'hobby' = ['soccer', 'powerlifting', 'games'],
+    'location' : {'Republic of Korea' : ['Suwon', 'Seoul']},
+    'language' : ['Korean', 'English'],
+ }
+```
         
 <!--
 **shallwe-dance/shallwe-dance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
