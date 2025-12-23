@@ -18,7 +18,7 @@ Hi, I'm **Sewoong**! I am currently studying in **Sungkyunkwan University**. I'm
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
  
 <br>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
  <img src="https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=NumPy">
  <img src="https://img.shields.io/badge/-Scipy-blue?style=for-the-badge&logo=Scipy&logoColor=white">
