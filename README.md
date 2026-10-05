@@ -8,7 +8,7 @@
  }
 ```
 <!-- [LIS](https://lis.skku.edu/lis/index.do) and [AAI](https://sco.skku.edu/sco/intro/major_infomatics.do) -->
-Hi, I'm **Sewoong**! I am currently studying in **Sungkyunkwan University**. I'm passionate adventurer who loves new experiences, and always looking for **a new adventure**. If you want to contact me: [jsw1301@skku.edu](jsw1301@skku.edu)
+Hi, I'm **Sewoong**! I am currently studying in **Sungkyunkwan University**. I'm passionate adventurer who loves new experiences. If you want to contact me: [jsw1301@skku.edu](jsw1301@skku.edu)
 
 <br>
 <div><h2>🔨 STACKS</h2></div>
